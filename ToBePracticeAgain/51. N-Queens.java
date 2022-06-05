@@ -1,3 +1,7 @@
+// Better Using BackTracking
+// Time Complexity: Exponential in nature since we are trying out all ways, to be precise its O(N! * N).
+// Space Complexity: O( N2 )
+
 class Solution {
     public List<List<String>> solveNQueens(int n) {
         char board[][] = new char[n][n];
@@ -55,6 +59,3 @@ class Solution {
         return res;
     }
 }
-// Time Complexity: Exponential in nature since we are trying out all ways, to be precise its O(N! * N).
-
-// Space Complexity: O( N2 )
