@@ -3,6 +3,8 @@
 // Space Complexity :- O(N + E) + O(N) + O(N)
 // problem GFG link :- https://practice.geeksforgeeks.org/problems/bipartite-graph/1
 
+// Day-1 complete i.e. 7thJune2022
+
 class Solution
 {
     public boolean isBipartite(int V, ArrayList<ArrayList<Integer>>adj)

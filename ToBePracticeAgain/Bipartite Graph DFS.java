@@ -2,6 +2,8 @@
 // Time Complexity :- O(N+E) 
 // Space Complexity :- O(N + E) + O(N) + O(N)
 
+// Day-1 complete i.e. 7thJune2022
+
 class Solution
 {
     public boolean isBipartite(int V, ArrayList<ArrayList<Integer>>adj)
