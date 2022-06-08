@@ -4,6 +4,8 @@
 
 // GFG - https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
 
+// Day-1 complete at 8thJune2022
+
 class Solution {
     // Function to detect cycle in a directed graph.
     public boolean isCyclic(int V, ArrayList<ArrayList<Integer>> adj) {
