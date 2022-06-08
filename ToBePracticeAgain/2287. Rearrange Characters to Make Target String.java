@@ -2,6 +2,8 @@
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
+// Day-1 complete at 8thJune2022
+
 class Solution {
     public int rearrangeCharacters(String s, String target) {
         Map<Character, Integer> map1 = new HashMap<>();

@@ -2,6 +2,8 @@
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
+// Day-1 complete at 8thJune2022
+
 class Solution {
     public String discountPrices(String sentence, int discount) {
         String str[] = sentence.split(" ");
