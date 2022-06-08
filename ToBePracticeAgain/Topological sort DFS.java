@@ -4,6 +4,8 @@
 
 // GFG - https://practice.geeksforgeeks.org/problems/topological-sort/1
 
+// Day-1 complete at 8thJune2022
+
 class Solution
 {
     //Function to return list containing vertices in Topological order. 
