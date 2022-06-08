@@ -38,7 +38,7 @@ while(i>=0 && j>=0){
 		 // here nums1[i] is greater/equal to , so copy and decresase both
       }
     }
-	// if left over numbers.
+	// if left over numbers
      while(j>=0) nums1[k--]=nums2[j--];
     }
 }
