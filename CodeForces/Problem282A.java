@@ -21,3 +21,5 @@ public class Problem282A{
         System.out.println(count);
     }
 }
+
+// Problem Link :- https://codeforces.com/problemset/problem/282/A
