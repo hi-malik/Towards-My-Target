@@ -17,3 +17,4 @@ public class problem231A{
         // System.out.println("Print Here");
     }
 }
+// Problem link :- https://codeforces.com/contest/231/problem/A
