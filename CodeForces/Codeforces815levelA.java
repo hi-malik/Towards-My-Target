@@ -5,55 +5,21 @@ public class Codeforces815levelA{
         int n = scn.nextInt();
 
         while(n --> 0){
-            int a = scn.nextInt();
-            int b = scn.nextInt();
-            int c = scn.nextInt();
-            int d = scn.nextInt();
-            int count = 0;
-            if(a != c && b == d){
-                if(a > c){
-                    a = a*c;
-                    count++;
-                }
-                else{
-                    c = c*a;
-                    count++;
-                }
-                System.out.println(count);
-            }
-            if(a == c && b != d){
-                if(b > d){
-                    b = b*d;
-                    count++;
-                }
-                else{
-                    d = d*b;
-                    count++;
-                }
-                System.out.println(count);
-            }
-            while(a != c && b != d){
-                int help;
-                if(a > c){
-                    
-                    if(a % c == 0){
-                        help = a/c;
-                    }
-                    else{
-                        help = a/c + 1;
-                    }
-                }
-                if(b > d){
-                    if(b % d == 0){
-                        help = help * b/d;
-                    }
-                    else{
-                        help = b/d + 1;
-                    }
-                }
-            }
+            long a = scn.nextInt();
+            long b = scn.nextInt();
+            long c = scn.nextInt();
+            long d = scn.nextInt();
+            
+            long temp1 = a * d;
+            long temp2 = b * c;
+            if(temp1 == temp2) System.out.println(0);
+            else if(temp1 == 0 || temp2 == 0) System.out.println(1);
+            else if(temp1 % temp2 == 0 || temp2 % temp1 == 0) System.out.println(1);
+            else System.out.println(2);
+
         }
         // System.out.println("Print Here");
     }
 }
-// Unable to solve this problem.
+// Unable to solve this problem. previously
+// Problem Link :- https://codeforces.com/contest/1720/problem/A
