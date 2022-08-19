@@ -4,3 +4,4 @@
 1. `Date :-` **15th August 2022 CP started** No.of problem solved ==> 2 {easy A level}
 2. `Date :-` **16th August 2022 getting intersted towards it** No.of problem solved ==> 3 {easy A level}
 3. `Date :-` **17th August 2022 prepare the roadmap to become Master on CodeForces** No.of problem solved ==> 2 {easy A level}
+4. `Date :-` **18th August 2022 give the first contest on CodeForces, try to solve A & B level problem but unable to solve them completely** No.of problem solved ==> 4 {easy A level} + 2 {Contest}
