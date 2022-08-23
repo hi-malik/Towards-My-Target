@@ -7,4 +7,5 @@
 4. `Date :-` **18th August 2022 give the `first` contest on CodeForces, try to solve A & B level problem but unable to solve them completely** No.of problem solved ==> 4 {easy A level} + 2 {Contest}
 5. `Date :-` **19th August 2022 Done nothing more** No.of problem solved ==> 3 {easy A level}
 6. `Date :-` **20th August 2022 give the `second` contest on CodeForces, try to solve A & B level problem but unable to solve them completely** No.of problem solved ==> 3 {easy A level} + 1 {B level} + 2 {Contest}
-7. `Date :-` **21st August 2022 Done nothing more** No.of problem solved ==> 2 {easy A level}
+7. `Date :-` **21st August 2022 Done nothing more** No.of problem solved ==> 3 {easy A level}
+8. `Date :-` **22nd August 2022 Done nothing more** No.of problem solved ==> 3 {easy A level}
