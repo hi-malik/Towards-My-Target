@@ -17,4 +17,4 @@ public class problem228A{
         // System.out.println("Print Here");
     }
 }
-// Problem Link :- 
+// Problem Link :- https://codeforces.com/problemset/problem/228/A
