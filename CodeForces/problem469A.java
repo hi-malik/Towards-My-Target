@@ -33,4 +33,4 @@ public class problem469A{
         // System.out.println("Print Here");
     }
 }
-// Problem Link :- 
+// Problem Link :- https://codeforces.com/problemset/problem/469/A
