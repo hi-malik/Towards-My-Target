@@ -33,4 +33,4 @@ public class problem514A{
         System.out.println(ans);
     }
 }
-// Problem Link :- 
+// Problem Link :- https://codeforces.com/contest/514/problem/A
