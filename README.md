@@ -13,4 +13,4 @@
 10. `Date :-` **24th August 2022 Done nothing more** No.of problem solved ==> 0 
 11. `Date :-` **25th August 2022 Done nothing more** No.of problem solved ==> 3 {easy A level} ~but **`problem469A`** getting one test case failed, solve it tomorrow~
 12. `Date :-` **26th August 2022 Done nothing more** No.of problem solved ==> 7 {easy A level} + 1 {repeat} = 8 **`1 week challenge started`** 
-13. `Date :-` **27th August 2022 Done nothing more** No.of problem solved ==> 3 {easy A level} + 3 {repeat} = 6 **`2nd day of challenge`**
+13. `Date :-` **27th August 2022 Done nothing more** No.of problem solved ==> 3 {easy A level} + 4 {repeat} = 7 **`2nd day of challenge`**
