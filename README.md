@@ -15,5 +15,5 @@
 12. `Date :-` **26th August 2022 Done nothing more** No.of problem solved ==> 7 {easy A level} + 1 {repeat} = 8 ~**`1 week challenge started`**~ 
 13. `Date :-` **27th August 2022 Done nothing more** No.of problem solved ==> 4 {easy A level} + 8 {repeat} = 12 ~**`2nd day of challenge`**~
 14. `Date :-` **28th August 2022 Done nothing more** No.of problem solved ==> 0 ~**`3rd day of challenge`**~
-15. `Date :-` **29th August 2022 Done nothing more** No.of problem solved ==> 6 {easy A level} but **`problem1095A`** getting quite difficult, solve it tomorrow
+15. `Date :-` **29th August 2022 Done nothing more** No.of problem solved ==> 6 {easy A level} ~but **`problem1095A`** getting quite difficult, solve it tomorrow~
 16. `Date :-` **30th August 2022 Done nothing more** No.of problem solved ==> 0 {easy-mid B level}
