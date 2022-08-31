@@ -12,4 +12,4 @@ public class problem1300B{
         }
     }
 }
-// Problem Link :- 
+// Problem Link :- https://codeforces.com/problemset/problem/1300/B
