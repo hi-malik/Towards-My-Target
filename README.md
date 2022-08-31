@@ -17,4 +17,4 @@
 14. `Date :-` **28th August 2022 Done nothing more** No.of problem solved ==> 0 ~**`3rd day of challenge`**~
 15. `Date :-` **29th August 2022 Done nothing more** No.of problem solved ==> 6 {easy A level} ~but **`problem1095A`** getting quite difficult, solve it tomorrow~
 16. `Date :-` **30th August 2022 Done nothing more** No.of problem solved ==> 1 {easy A level} + 1 {easy-mid B level} = 2 **`problem1391B`** giving issues with  my code, let me figure it out
-17. `Date :-` **31st August 2022 Done nothing more** No.of problem solved ==> 1 {easy-mid B level} + 1 {easy-mid C level} = 2
+17. `Date :-` **31st August 2022 Done nothing more** No.of problem solved ==> 1 {easy A level} + 1 {easy-mid B level} + 1 {easy-mid C level} = 3
