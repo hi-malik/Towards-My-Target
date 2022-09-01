@@ -20,4 +20,4 @@ public class problem118B{
         }
     }
 }
-// Problem Link :- 
+// Problem Link :- https://codeforces.com/problemset/problem/118/B
