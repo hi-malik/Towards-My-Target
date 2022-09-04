@@ -21,3 +21,4 @@
 18. `Date :-` **1st September 2022 Done nothing more** `o% Productivity`. As out of town due to some visa work
 19. `Date :-` **2nd September 2022 Done nothing more** No.of problem solved ==> 1 {easy A level} + 0 {easy-mid B level} + 0 {easy-mid C level} = 1
 20. `Date :-` **3rd September 2022 Done nothing more** No.of problem solved ==> 1 {easy A level} + 0 {easy-mid B level} + 0 {easy-mid C level} = 1
+21. `Date :-` **4th September 2022 Done nothing more** `o% Productivity`. As out of town due to some visa work
