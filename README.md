@@ -25,3 +25,4 @@
 22. `Date :-` **5th September 2022 Done nothing more** `o% Productivity`. As out of town due to some visa work
 23. `Date :-` **6th September 2022 Done nothing more** **`All shit DONE`**
 24. `Date :-` **7th September 2022 Done nothing more** `o% Productivity`. As out of town due to some visa work
+25. `Date :-` **8th September 2022 Done nothing more** `o% Productivity`. As out of town due to some visa work
