@@ -28,3 +28,5 @@
 25. `Date :-` **8th September 2022 Done nothing more** `o% Productivity`. As out of town due to some visa work
 26. `Date :-` **9th September 2022 Done nothing more** `o% Productivity`. As out of town due to some visa work
 27. `Date :-` **10th September 2022 Done nothing more** `o% Productivity`. As out of town due to some visa work
+28. `Date :-` **11th September 2022 Done nothing more** `o% Productivity`. As out of town due to some visa work
+29. `Date :-` **12th September 2022 Done nothing more** `o% Productivity`. As out of town due to some visa work
